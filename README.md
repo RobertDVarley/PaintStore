@@ -3,6 +3,6 @@ In this project, you will follow step-by-step instructions to improve a vibrant,
 
 The page is almost ready to be published. You’ll be making the following color-related changes:
 
-+Exchange some named colors with hexadecimal color values.
-+Add some semi-transparent overlays to the banner and footer using RGBA.
++Exchange some named colors with hexadecimal color values.<br>
++Add some semi-transparent overlays to the banner and footer using RGBA.<br>
 +Fill in the first color column of the swatch samples using HSL colors.
